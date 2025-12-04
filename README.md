@@ -129,7 +129,7 @@ Full Stack Developer | AI/ML Engineer | JavaScript Developer
 
 ## 🌐 Live Demo
 
-[▶ Play Rock Paper Scissors Online](https://MKhurramPro.github.io/rock-paper-scissors/)
+[▶ Play Rock Paper Scissors Online](https://MKhurramPro.github.io/Game-JavaScript/)
 
 ---
 
