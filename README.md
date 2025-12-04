@@ -121,7 +121,7 @@ Full Stack Developer | AI/ML Engineer | JavaScript Developer
 
 <p align="center">
   <a href="https://github.com/MKhurramPro/rock-paper-scissors/stargazers">
-    <img src="https://img.shields.io/github/stars/MKhurramPro/rock-paper-scissors?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/MKhurramPro/Game-JavaScript?style=social" alt="GitHub stars">
   </a>
 </p>
 
